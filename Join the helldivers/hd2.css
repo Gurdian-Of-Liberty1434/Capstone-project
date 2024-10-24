@@ -1,0 +1,20 @@
+body{
+    background-image: url("helldivers 1.jpg");
+    opacity: 0.9;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+.hd2size{
+    width: 1000px;
+    height: 500px;
+
+}
+#heading{
+font-size: 30px;
+font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+nav{
+    background-color: cornflowerblue;
+}
