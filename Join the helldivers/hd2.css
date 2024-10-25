@@ -18,3 +18,13 @@ font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans 
 nav{
     background-color: cornflowerblue;
 }
+#vid{
+    margin-left: 30%;
+    padding-top: 50px;
+}
+#idk{
+    margin-left: 38%;
+    padding-top: 50px;
+    width: 300px;
+    height: 300px;
+}
